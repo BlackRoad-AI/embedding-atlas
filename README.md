@@ -130,4 +130,4 @@ For more information, please visit <https://apple.github.io/embedding-atlas/deve
 
 ## License
 
-This code is released under the [`MIT license`](LICENSE).
+This code is released under the [`BlackRoad Proprietary License`](LICENSE).
